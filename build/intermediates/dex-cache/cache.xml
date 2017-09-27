@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\demo\BaiduMapDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edd450df628814323358e83915981daba3be678c">
+        <dex dex="E:\demo\BaiduMapDemo\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_5d6d754e912c2d867bd1f1fdfd9af44dfe65ffa3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\demo\BaiduMapDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edd450df628814323358e83915981daba3be678c">
+        <dex dex="E:\demo\BaiduMapDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_5d6d754e912c2d867bd1f1fdfd9af44dfe65ffa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\demo\BaiduMapDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50a8524d82ee928aec2c88933fbc58581fc2338a">
+        <dex dex="E:\demo\BaiduMapDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_187df21eea0b018f559306232d2adf480e8fc2ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\demo\BaiduMapDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\demo\BaiduMapDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a79af60f506772b5ccbfe72a9a67c8f4d974696e\classes.dex" />
+    </item>
+
+</items>

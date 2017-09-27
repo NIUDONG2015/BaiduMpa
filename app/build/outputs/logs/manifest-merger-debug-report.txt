@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:7:5-85
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:7:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:13:22-70
+application
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:15:5-40:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\e748b906168463523052d95dd722d1b6e72e1170\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\79f7f73f41e3322a7f81604e0ccf04ce1ba276b2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\293917fe6f2398d9414bcd3d75aef3173319ccbe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\76795ef72cb02b830d3e98a9b732693527b681d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4efd23842932cde468301800c791d9e0e08b57ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\68f27bccfc4727a3e1809a0fea2189b91b688cc7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4cb7587d4f8467cec897844be3b611b56944b241\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\fddfc86885c9c4bc045b2442e92c3d98cc199614\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\luuuzi\.android\build-cache\55b4ad049d4908d1df71b7aa0d0857baa278682a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:20:9-54
+	android:allowBackup
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:16:9-38
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:24:9-26:64
+	android:value
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:26:13-61
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:25:13-52
+activity#toasttest.luuuzi.baidumapdemo.DemoListActivity
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:28:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:32:27-74
+activity#toasttest.luuuzi.baidumapdemo.HelloBaiduMapActivity
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:35:9-58
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:35:19-56
+activity#toasttest.luuuzi.baidumapdemo.MapLayerActivity
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:37:19-51
+activity#toasttest.luuuzi.baidumapdemo.CircleOverlayActivity
+ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml:39:19-56
+uses-sdk
+INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\e748b906168463523052d95dd722d1b6e72e1170\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\79f7f73f41e3322a7f81604e0ccf04ce1ba276b2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\293917fe6f2398d9414bcd3d75aef3173319ccbe\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\76795ef72cb02b830d3e98a9b732693527b681d9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4efd23842932cde468301800c791d9e0e08b57ca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\68f27bccfc4727a3e1809a0fea2189b91b688cc7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4cb7587d4f8467cec897844be3b611b56944b241\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\fddfc86885c9c4bc045b2442e92c3d98cc199614\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\luuuzi\.android\build-cache\55b4ad049d4908d1df71b7aa0d0857baa278682a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\BaiduMapDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\e748b906168463523052d95dd722d1b6e72e1170\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\79f7f73f41e3322a7f81604e0ccf04ce1ba276b2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\293917fe6f2398d9414bcd3d75aef3173319ccbe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\76795ef72cb02b830d3e98a9b732693527b681d9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4efd23842932cde468301800c791d9e0e08b57ca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\68f27bccfc4727a3e1809a0fea2189b91b688cc7\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\4cb7587d4f8467cec897844be3b611b56944b241\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\fddfc86885c9c4bc045b2442e92c3d98cc199614\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\luuuzi\.android\build-cache\8f8b0940350e2ceb02031e19d5891d28202c270f\output\AndroidManifest.xml:26:9-47

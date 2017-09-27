@@ -1,0 +1,4 @@
+#Mon Sep 25 18:22:13 CST 2017
+base.0=E\:\\demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=E\:\\demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
